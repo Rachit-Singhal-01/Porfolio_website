@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://rachitsinghal.dev/sitemap.xml
+
+# Block access to sensitive files
+Disallow: /api/
+Disallow: /.env
+Disallow: /server/
+Disallow: /node_modules/
+
+# Allow access to CV download
+Allow: /Rachit_Singhal_CV.docx
+
+# Crawl delay (optional - helps with server load)
+Crawl-delay: 1

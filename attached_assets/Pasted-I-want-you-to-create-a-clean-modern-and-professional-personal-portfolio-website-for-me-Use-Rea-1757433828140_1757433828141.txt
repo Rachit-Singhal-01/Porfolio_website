@@ -1,0 +1,53 @@
+I want you to create a clean, modern, and professional personal portfolio website for me.  
+Use React + TailwindCSS (or a modern frontend stack) with responsive design, minimal aesthetic, and smooth animations.  
+
+Here are my details to include:  
+
+👤 Personal Info:  
+- Name: Rachit Singhal  
+- Location: Manchester, United Kingdom  
+- Email: rachitsinghal2024@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/rachit-singhall/  
+- GitHub: https://github.com/Rachit-Singhal-01  
+
+💼 Professional Summary:  
+MSc Artificial Intelligence graduate at the University of Manchester with hands-on experience in machine learning, reinforcement learning, and data engineering. Skilled in Python and modern ML frameworks, with a proven ability to design and deploy AI solutions that improve efficiency and accuracy. Experienced in biomedical text mining, financial analytics, and education technology. Strong collaborator who bridges technical depth with clear communication.  
+
+🛠️ Skills Section:  
+- Machine Learning, Generative AI, NLP, Computer Vision, Deep Learning  
+- AI Strategy, Software Engineering, Data Science, Data Analysis, Statistics  
+- Cloud: AWS, Azure, Google Cloud  
+- Languages & Frameworks: Python, PyTorch, SQL, Java, JavaScript, Git, Docker  
+
+📚 Education:  
+- MSc in Advanced Computer Science (Artificial Intelligence), University of Manchester (2024–Present, Expected Distinction)  
+- B.Tech. in Information Technology, MSIT New Delhi (2018–2022, CGPA: 8.3/10)  
+
+💼 Experience:  
+- **System Engineer, Infosys Limited (08/2022 – 07/2024):**  
+   - Developed data-driven solutions reducing reporting time by 30%.  
+   - Built Power BI + Python dashboards, cutting manual reporting by 50%.  
+   - Integrated ML models → 25% improvement in data accuracy, 20% faster processing.  
+
+- **AI/ML Intern, Magic Edtech (02/2022 – 03/2022):**  
+   - Built predictive ML models to improve student engagement by 10%.  
+
+🚀 Projects Section:  
+- **ReNewTrade:** Blockchain-based energy trading prototype using Gemini AI agents. Finalist in sustainability-focused AI hackathon.  
+- **Relation Extraction (NLP):** Relation extraction pipeline using BERT embeddings + XGBoost vs. GCN on re-DOCRED.  
+- **Object Recognition:** Compared HOG/SIFT + SVM with CNNs on CIFAR-10 → 40% accuracy improvement with deep learning.  
+- **SCDCC Framework:** Designed framework for single-cell data clustering (Zeisel mouse brain cortex, PBMC, bladder, worm neuron).  
+
+📞 Contact Section:  
+- Email form (connects to my email)  
+- Links to GitHub + LinkedIn  
+
+📌 Website Requirements:  
+- Landing page with hero section (intro + tagline: "AI/ML Engineer | Building Scalable Intelligent Systems")  
+- Sections: About Me, Skills, Education, Experience, Projects, Contact  
+- Project cards should pull live repo links from my GitHub (https://github.com/Rachit-Singhal-01).  
+- Include subtle animations (Framer Motion or Tailwind transitions).  
+- Dark + Light mode toggle.  
+- Fully responsive (mobile-first).  
+
+Deploy-ready on **Vercel** or **Netlify**.  
